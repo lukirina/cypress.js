@@ -1,2 +1,2 @@
 # cypress.js
-Автотесты на cypress для покупки аватара тренеру на сайте https://pokemonbattle.me/
+Автотесты на cypress для формы авторизации (login.cy.js) и покупки аватара тренеру (poke_avatar.cy.js)
